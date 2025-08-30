@@ -1,6 +1,6 @@
-# 🚀 **JARVIS-Inspired Portfolio Website**
+# 🚀 **Portfolio Website**
 
-![Portfolio Preview]<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/1cda814e-76b7-4c68-8ac4-eb2b1a099626" />
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/1cda814e-76b7-4c68-8ac4-eb2b1a099626" />
 
 
 > **अस्थ वृत्तः संस्था** - *A wanderer finds the path*
