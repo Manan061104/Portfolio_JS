@@ -1,6 +1,6 @@
 # 🚀 **JARVIS-Inspired Portfolio Website**
 
-![Portfolio Preview](https://github.com/user-attachments/assets/your-image-id-here)
+![Portfolio Preview](https://github.com/Manan061104/Portfolio_JS/blob/main/public/main%20bg.jpg)
 
 > **अस्थ वृत्तः संस्था** - *A wanderer finds the path*
 
@@ -39,8 +39,8 @@ A futuristic **Iron Man JARVIS-inspired** portfolio website built with **Next.js
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nextjs-portfolio.git
-   cd nextjs-portfolio
+   git clone https://github.com/Manan061104/Portfolio_JS.git
+   cd Portfolio_JS
    ```
 
 2. **Install dependencies**
