@@ -26,14 +26,14 @@ const Page = () => {
       <div className="flex flex-col gap-16 w-full max-w-[90%] text-center items-center">
         {/* Heading */}
         <div className="flex flex-col items-center gap-4 mt-14 md:mt-0">
-          <h1 className="font-semibold text-white text-[32px] md:text-[50px]">
+          <h1 className="font-semibold text-black text-[32px] md:text-[50px]">
             Skills{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
+            <span className="font-semibold text-black text-[32px] md:text-[50px]">
               & Technologies
             </span>
           </h1>
-          <p className="text-gray-400 text-[16px] md:text-[20px]">
-            Using the latest tech this world has to offer
+          <p className="text-black text-[16px] md:text-[20px]">
+            Using the latest tech this world !
           </p>
         </div>
 
