@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 **Author**
 
 **Manan Pathak**
-- 🌐 Website: [mananpathak.dev](https://mananpathak.dev)
+- 🌐 Website: [mananpathak.dev](https://portfolio-js-orcin-omega.vercel.app/)
 - 💼 LinkedIn: [mananpathak01](https://linkedin.com/in/mananpathak01)
 - 🐱 GitHub: [Manan061104](https://github.com/Manan061104)
 - 📸 Instagram: [manann_pathak](https://instagram.com/manann_pathak)
