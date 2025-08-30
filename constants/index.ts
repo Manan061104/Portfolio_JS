@@ -132,7 +132,7 @@ export const Projects = [
     text: "A futuristic JARVIS-inspired portfolio website built with Next.js, TypeScript, and advanced CSS animations. Features holographic effects, glowing interfaces, and Iron Man-themed design elements.", // Project description
     src: "/Port.JPG", // Project image path
     codeLink: "https://github.com/Manan061104/Portfolio_JS.git", // GitHub repository link
-    liveLink: "https://portfolio-js-ruddy.vercel.app/", // Live website link
+    liveLink: "https://portfolio-js-orcin-omega.vercel.app/", // Live website link
   },
 ];
 
